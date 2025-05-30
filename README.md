@@ -115,7 +115,3 @@ The agent is then instantiated with these tools, a description, and clear instru
 - [Bevy blog](https://bevy.com/b/blog)
 - [FasterCapital: Measuring Community Impact](https://fastercapital.com/topics/measuring-and-analyzing-community-growth-and-impact.html)
 - [David Spinks' Community Insights](https://davidspinks.substack.com/)
-
----
-
-*This project is a starting point for building advanced, data-driven community assistant agents for developer communities in Africa and beyond.*
