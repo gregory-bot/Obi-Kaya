@@ -1,4 +1,5 @@
 # Obi-Kaya Smart Community Assistant Agent
+![Obi-Kaya Chatbot Screenshot](images/WhatsApp%20Image%202025-06-29%20at%2010.07.45_e846fa43.jpg)
 
 Obi-Kaya is a Smart Community Assistant Agent designed to empower Google Developer Group (GDG) organizers, especially in Sub-Saharan Africa, to maximize their community's impact, secure partnerships, and sustain engagement. The agent analyzes community data, generates actionable recommendations, crafts partnership/sponsorship pitches, and provides strategies for ongoing engagement. It is multilingual and can respond in most African languages.
 
