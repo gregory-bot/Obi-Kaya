@@ -171,3 +171,4 @@ fetch('https://obi-kaya.onrender.com/your-endpoint', {
 [MIT](LICENSE)
 
 thankyou .follow me on github 😕✊
+![Obi-Kaya Chatbot Screenshot 3](images/WhatsApp%20Image%202025-06-29%20at%2010.42.21_a0531c7c.jpg)
