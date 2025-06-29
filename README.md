@@ -127,7 +127,8 @@ GOOGLE_API_KEY=your-gemini-api-key-here
      - `GOOGLE_API_KEY=your-gemini-api-key-here`
 3. **Deploy!**  
    Your app will be available at `https://your-app-name.onrender.com`.
-
+for example after I deployed it on render i have the url : 👉  **https://obi-kaya.onrender.com**
+you can check it on your pc's
 ---
 
 ## API Usage
