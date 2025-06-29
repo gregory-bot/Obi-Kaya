@@ -105,6 +105,7 @@ GOOGLE_API_KEY=your-gemini-api-key-here
 - **Open your browser** and go to the URL provided (usually http://localhost:8000).
 - **Select your agent** (`obi_kaya_agent`) and interact with it using the web interface.
 ---
+![Obi-Kaya Chatbot Screenshot](images/WhatsApp%20Image%202025-06-29%20at%2010.18.34_3cdd9037.jpg)
 
 ## Example Usage
 
