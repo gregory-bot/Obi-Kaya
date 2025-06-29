@@ -114,7 +114,7 @@ GOOGLE_API_KEY=your-gemini-api-key-here
 - **Ask a general question:**  
   - "How do I increase engagement in my developer community?"  
   - "How do I troubleshoot event registration on Bevy?"
-
+![Obi-Kaya Chatbot Screenshot 2](images/WhatsApp%20Image%202025-06-29%20at%2009.46.44_eba3f6c8.jpg)
 ---
 
 ## Deployment (Render.com Example)
